@@ -1,3 +1,4 @@
+print('Программа для теста Git')
 def factorial():
     n = int(input('Введите число: '))
     factorial = 1
